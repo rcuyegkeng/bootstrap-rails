@@ -246,7 +246,8 @@ $grid-columns:              12 !default;
 // Padding, to be divided by two and applied to the left and right of all columns
 $grid-gutter-width:         30px !default;
 // Point at which the navbar stops collapsing
-$grid-float-breakpoint:     $screen-sm !default;
+// Customized the collapse point for our project.
+$grid-float-breakpoint:     999px !default;
 
 
 // Navbar
